@@ -1,0 +1,12 @@
+
+
+                               SNAKE GAME PROJECT
+                            MADE BY: MD.LIZUR RAHMAN
+                         EAST WEST UNIVERSITY,DHAKA-1212
+				   BANGLADESH
+
+                                    P= PLAY GAME
+                                    H= HELP
+                                    Q= QUIT
+
+			         Press anyone...

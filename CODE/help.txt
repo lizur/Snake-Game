@@ -1,0 +1,15 @@
+
+                                  SNAKE GAME PROJECT
+	Rules:
+	 	 2 = Down,
+		 8 = Up, 
+	 	 4 = Left, 
+		 6 = Right, 
+		 0 = Pause, 
+	 	 Anykey to Continue...
+
+	Developed By:	Md. Lizur Rahman
+			East West university, Dhaka-1212
+			Bangladesh
+                  	Contact: +8801912234276
+                        EMAIL: lizur.sky@gmail.com
